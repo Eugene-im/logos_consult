@@ -1,0 +1,1158 @@
+/* font-family: "Exo2Regular"; */
+@font-face {
+    font-family: "Exo2Regular";
+    src: url("../fonts/Exo2Regular/Exo2Regular.eot");
+    src: url("../fonts/Exo2Regular/Exo2Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Regular/Exo2Regular.woff") format("woff"),
+    url("../fonts/Exo2Regular/Exo2Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Bold"; */
+@font-face {
+    font-family: "Exo2Bold";
+    src: url("../fonts/Exo2Bold/Exo2Bold.eot");
+    src: url("../fonts/Exo2Bold/Exo2Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Bold/Exo2Bold.woff") format("woff"),
+    url("../fonts/Exo2Bold/Exo2Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Light"; */
+@font-face {
+    font-family: "Exo2Light";
+    src: url("../fonts/Exo2Light/Exo2Light.eot");
+    src: url("../fonts/Exo2Light/Exo2Light.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Light/Exo2Light.woff") format("woff"),
+    url("../fonts/Exo2Light/Exo2Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2BoldItalic"; */
+@font-face {
+    font-family: "Exo2BoldItalic";
+    src: url("../fonts/Exo2BoldItalic/Exo2BoldItalic.eot");
+    src: url("../fonts/Exo2BoldItalic/Exo2BoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2BoldItalic/Exo2BoldItalic.woff") format("woff"),
+    url("../fonts/Exo2BoldItalic/Exo2BoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2ExtraBold"; */
+@font-face {
+    font-family: "Exo2ExtraBold";
+    src: url("../fonts/Exo2ExtraBold/Exo2ExtraBold.eot");
+    src: url("../fonts/Exo2ExtraBold/Exo2ExtraBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ExtraBold/Exo2ExtraBold.woff") format("woff"),
+    url("../fonts/Exo2ExtraBold/Exo2ExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2ExtraBoldItalic"; */
+@font-face {
+    font-family: "Exo2ExtraBoldItalic";
+    src: url("../fonts/Exo2ExtraBoldItalic/Exo2ExtraBoldItalic.eot");
+    src: url("../fonts/Exo2ExtraBoldItalic/Exo2ExtraBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ExtraBoldItalic/Exo2ExtraBoldItalic.woff") format("woff"),
+    url("../fonts/Exo2ExtraBoldItalic/Exo2ExtraBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2ExtraLight"; */
+@font-face {
+    font-family: "Exo2ExtraLight";
+    src: url("../fonts/Exo2ExtraLight/Exo2ExtraLight.eot");
+    src: url("../fonts/Exo2ExtraLight/Exo2ExtraLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ExtraLight/Exo2ExtraLight.woff") format("woff"),
+    url("../fonts/Exo2ExtraLight/Exo2ExtraLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2ExtraLightItalic"; */
+@font-face {
+    font-family: "Exo2ExtraLightItalic";
+    src: url("../fonts/Exo2ExtraLightItalic/Exo2ExtraLightItalic.eot");
+    src: url("../fonts/Exo2ExtraLightItalic/Exo2ExtraLightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ExtraLightItalic/Exo2ExtraLightItalic.woff") format("woff"),
+    url("../fonts/Exo2ExtraLightItalic/Exo2ExtraLightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Italic"; */
+@font-face {
+    font-family: "Exo2Italic";
+    src: url("../fonts/Exo2Italic/Exo2Italic.eot");
+    src: url("../fonts/Exo2Italic/Exo2Italic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Italic/Exo2Italic.woff") format("woff"),
+    url("../fonts/Exo2Italic/Exo2Italic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2BlackItalic"; */
+@font-face {
+    font-family: "Exo2BlackItalic";
+    src: url("../fonts/Exo2BlackItalic/Exo2BlackItalic.eot");
+    src: url("../fonts/Exo2BlackItalic/Exo2BlackItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2BlackItalic/Exo2BlackItalic.woff") format("woff"),
+    url("../fonts/Exo2BlackItalic/Exo2BlackItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2LightItalic"; */
+@font-face {
+    font-family: "Exo2LightItalic";
+    src: url("../fonts/Exo2LightItalic/Exo2LightItalic.eot");
+    src: url("../fonts/Exo2LightItalic/Exo2LightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2LightItalic/Exo2LightItalic.woff") format("woff"),
+    url("../fonts/Exo2LightItalic/Exo2LightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Medium"; */
+@font-face {
+    font-family: "Exo2Medium";
+    src: url("../fonts/Exo2Medium/Exo2Medium.eot");
+    src: url("../fonts/Exo2Medium/Exo2Medium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Medium/Exo2Medium.woff") format("woff"),
+    url("../fonts/Exo2Medium/Exo2Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2MediumItalic"; */
+@font-face {
+    font-family: "Exo2MediumItalic";
+    src: url("../fonts/Exo2MediumItalic/Exo2MediumItalic.eot");
+    src: url("../fonts/Exo2MediumItalic/Exo2MediumItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2MediumItalic/Exo2MediumItalic.woff") format("woff"),
+    url("../fonts/Exo2MediumItalic/Exo2MediumItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Black"; */
+@font-face {
+    font-family: "Exo2Black";
+    src: url("../fonts/Exo2Black/Exo2Black.eot");
+    src: url("../fonts/Exo2Black/Exo2Black.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Black/Exo2Black.woff") format("woff"),
+    url("../fonts/Exo2Black/Exo2Black.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2SemiBold"; */
+@font-face {
+    font-family: "Exo2SemiBold";
+    src: url("../fonts/Exo2SemiBold/Exo2SemiBold.eot");
+    src: url("../fonts/Exo2SemiBold/Exo2SemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2SemiBold/Exo2SemiBold.woff") format("woff"),
+    url("../fonts/Exo2SemiBold/Exo2SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2SemiBoldItalic"; */
+@font-face {
+    font-family: "Exo2SemiBoldItalic";
+    src: url("../fonts/Exo2SemiBoldItalic/Exo2SemiBoldItalic.eot");
+    src: url("../fonts/Exo2SemiBoldItalic/Exo2SemiBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2SemiBoldItalic/Exo2SemiBoldItalic.woff") format("woff"),
+    url("../fonts/Exo2SemiBoldItalic/Exo2SemiBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2Thin"; */
+@font-face {
+    font-family: "Exo2Thin";
+    src: url("../fonts/Exo2Thin/Exo2Thin.eot");
+    src: url("../fonts/Exo2Thin/Exo2Thin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Thin/Exo2Thin.woff") format("woff"),
+    url("../fonts/Exo2Thin/Exo2Thin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo2ThinItalic"; */
+@font-face {
+    font-family: "Exo2ThinItalic";
+    src: url("../fonts/Exo2ThinItalic/Exo2ThinItalic.eot");
+    src: url("../fonts/Exo2ThinItalic/Exo2ThinItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ThinItalic/Exo2ThinItalic.woff") format("woff"),
+    url("../fonts/Exo2ThinItalic/Exo2ThinItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/* Eric Meyer's CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, capxion, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcapxion, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcapxion, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End of Eric Meyer's CSS Reset */
+
+article, aside, details, figcapxion, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block;
+}
+body {
+	font: 12px/18px Arial, sans-serif;
+}
+.wrapper {
+	overflow:hidden; 
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	
+	width:100%;
+	height: auto;
+	background: url(../img/1.jpg) no-repeat center center;
+	background-size: cover; 
+	 
+}
+.cont {
+	max-width: 1200px;
+	margin: 0px auto;
+}
+
+.logo {
+	position: relative;
+	margin: 66px auto 0;
+	text-align: center;
+}
+
+.line {
+	margin: 46px auto 0;
+	text-align: center;
+	padding: 0;
+}
+
+.menu ul{
+position: relative;
+margin: 16px auto 0;
+text-align: center;
+vertical-align: middle;
+}
+
+.menu ul li{
+	display: inline-block;
+	list-style-type: none;
+	vertical-align: middle;
+	font:14px Exo2Medium;
+	text-transform: uppercase;
+	color:#d7d7d7;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:#d7d7d7;
+}
+
+
+.menu ul li a:hover{
+	color:#00bfff;
+}
+
+.menu ul li:nth-child(2n){
+	margin: auto 17px;
+}
+
+.t1 {
+color:#00bfff;
+margin: 185px auto 0;
+text-align: center;	
+font:50.55px Exo2Bold;
+text-transform: uppercase;
+
+}
+
+.line1 {
+margin: 23px auto;
+text-align: center; 
+}
+
+.t2 {
+color:#d7d7d7;
+margin: 19px auto 0;
+text-align: center;	
+font:30px Exo2Bold;
+text-transform: uppercase;
+text-shadow: 3px 4px 5px rgba(124,124,124,.75);
+}
+
+.btn1 {
+	max-width: 240px;
+	width: 240px;
+	max-height: 50px;
+	height: 50px;
+	background: url(../img/btn1.png) no-repeat;
+	border: 1px solid inherit;
+	border-radius: 3px;
+	padding: 14px 0;
+	margin: 97px auto 0;
+	text-align: center;	
+	font:18px Exo2Regular;
+	text-transform:;
+}
+
+.btn1 a{
+	text-decoration: none;
+	color:black;
+	text-transform: ;
+}
+.btn1 a:hover{
+	text-decoration: none;
+	color:black;
+	text-transform: ;
+}
+
+.t3{
+	color:#d7d7d7;
+	margin: 110px auto 0;
+	text-align: center;	
+	font:14px Exo2Light;
+		 
+}
+
+.t4{
+	color:#d7d7d7;
+	margin: 12px auto 77px;
+	text-align: center;	
+	font:33.43px Exo2Bold;
+	text-transform: uppercase;
+}
+
+.t4 a{
+	text-decoration: none;	 
+	color:#d7d7d7;
+}
+.t4 a:hover{
+	text-decoration: none;	 
+	color:#d7d7d7;
+}
+
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+main{
+}
+
+.services .b div{
+	display: inline-block;
+}
+
+.ts{
+	color:#303030;
+	margin: 61px auto 78px;
+	text-align: center;	
+	font:36px Exo2Thin;
+	text-transform: uppercase;
+}
+
+.b{
+	margin: 0 auto 73px;
+	text-align: center;
+}
+
+.s{
+	width: 135px;
+	height: 235px;
+	text-align: center;
+	margin-right: 60px;
+	vertical-align: middle;
+	text-transform: uppercase;
+}
+
+.s5 {
+	width: 135px;
+	height: 235px;
+	text-align: center;
+	margin-right: 60px;
+	vertical-align: middle;
+	text-transform: uppercase;
+}
+
+.line2{
+	margin: 20px 0;
+}
+
+.services .name{
+	color:#303030;
+	margin: 0 auto;
+	text-align: center;	
+	font:15px Exo2Regular;
+	text-transform: uppercase;
+}
+
+.t5{
+	color:#ffffff;
+	margin: 70px auto 70px;
+	text-align: center;	
+	font:36px Exo2Thin;
+	text-transform: uppercase;
+}
+
+.profit {
+	width:100%;
+	height: auto;
+	background: url(../img/2.jpg) no-repeat center center;
+	background-size: cover; 
+}
+
+.arrow{
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0);
+	bottom: -45px;
+}
+
+.pp1,.pp2,.pp4{
+	position: relative;
+	background: rgba(255,255,255,.7);
+	margin: 0 auto 33px;
+	max-width: 958px;
+	width: 100%;
+	min-height: 205px;
+	border-radius: 4px;
+	padding: 27px;
+}
+
+.pp3 {
+	position: relative;
+	background: rgba(255,255,255,.7);
+	margin: 0 auto 33px;
+	max-width: 958px;
+	width: 100%;
+	min-height: 205px;
+	border-radius: 4px;
+	padding: 27px 27px 27px 0px;
+}
+
+.l,.r {
+	display: inline-block;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.pol,.por,.po {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.pp1 .po{
+	width: 24%;
+}
+.pp2 .po{
+	width: 49%;
+}
+.pp3 .po{
+	width: 32%;
+}
+.pp4 .po{
+	width: 49%;
+}
+
+
+.pp1 .pol{
+width:15%;
+}
+.pp1 .por{
+width:84%;
+}
+
+.pp2 .pol{
+width:9%;
+}
+.pp2 .por{
+width:90%;
+}
+
+.pp3 .pol{
+width:9%;
+}
+.pp3 .por{
+width:90%;
+}
+.pp4 .pol{
+width:9%;
+}
+.pp4 .por{
+width:90%;
+}
+
+.r{
+	width: 79.5%;
+}
+
+.l{
+	max-width: 15.5%;
+	border-right: 1px solid #384250;
+	padding: 55px 20px 45px 3px;
+	margin-right: 32px;
+}
+
+.pp3 .l{
+	max-width: 19.5%;
+	border-right: 1px solid #384250;
+	padding: 55px 6px 45px 6px;
+	margin-right: 32px;
+}
+
+.pt{
+	
+}
+
+.pth1{
+	color:#384250;
+	margin-top: 5px;
+	text-align: left;	
+	font:24px Exo2Bold;
+	text-transform: uppercase;
+	
+}
+
+.pp2 .pth1{
+	color:#9e0000;
+	margin-top: 5px;
+	text-align: left;	
+	font:24px Exo2Bold;
+	text-transform: uppercase;
+	
+}
+
+.pp3 .pth{
+	color:#5c7a00;
+	margin: 15px auto 65px;
+	text-align: left;	
+	font:24px Exo2Bold;
+	text-transform: uppercase;
+	
+}
+
+.pp4 .pth{
+	color:#0087b4;
+	margin: 15px auto 65px;
+	text-align: left;	
+	font:24px Exo2Bold;
+	text-transform: uppercase;
+	
+}
+
+.ptt1{
+	color:#000000;
+	margin: 33px auto 0px;
+	text-align: left;	
+	font:18px Exo2Thin;
+	
+}
+
+.po{
+	display: inline-block;
+	
+	color:#000000;
+	margin: 40px auto 27px;
+	text-align: left;	
+	font:18px Exo2Light;
+	
+}
+
+.pp3 .po{
+	display: inline-block;
+	color:#000000;
+	margin: 0px auto 27px;
+	text-align: left;	
+	font:18px Exo2Light;
+	
+}
+
+.pp4 .po{
+	display: inline-block;
+	color:#000000;
+	margin: 0px auto 27px;
+	text-align: left;	
+	font:18px Exo2Light;
+	
+}
+
+.t6{
+	color:#ffd200;
+	margin: 77px auto 10px;
+	text-align: center;	
+	font:14px Exo2Light;
+}
+
+main .btn1 {
+	max-width: 240px;
+	width: 240px;
+	max-height: 50px;
+	height: 50px;
+	background: url(../img/btn1.png) no-repeat;
+	border: 1px solid inherit;
+	border-radius: 3px;
+	padding: 9px 0;
+	margin: 0 auto 56px;
+	text-align: center;
+	vertical-align: bottom;	
+	font:23.75px Exo2Bold;
+	text-transform: uppercase;
+}
+
+main .btn1 a{
+	text-decoration: none;
+	color:black;
+	
+}
+main .btn1 a:hover{
+	text-decoration: none;
+	color:black;
+
+}
+
+.atop {
+	margin: 14px auto 0;
+	text-align: center;
+	border-bottom: 1px solid #dcdcdc; 
+}
+.abottom{
+	margin: 0 auto;
+	text-align: center;
+}
+.aleft,.acenter,.aright{
+	display: inline-block;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.actia .t5{
+	color:#201f1f;
+	margin: 48px auto 57px;
+	text-align: center;	
+	font:36px Exo2Thin;
+	text-transform: uppercase;
+}
+
+.acenter{
+
+}
+
+.alt{
+	color:#f57534;
+	margin: 0px auto 0px;
+	text-align: left;	
+	font:44.85px Exo2Bold;
+	text-transform: uppercase;
+	margin: 0px 178px 47px 36px; 
+}
+
+.alb{
+	color:#f3b64b;
+	margin: 0px auto 0px;
+	text-align: right;	
+	font:80.59px Exo2Black;
+	text-transform: uppercase;
+	margin: 0px 21px 61px 70px;
+}
+
+.art{
+	color:#87a317;
+	margin: 0px auto 0px;
+	text-align: left;	
+	font:57.19px Exo2Black;
+	text-transform: uppercase;
+	margin: 0px 78px 57px 13px;
+}
+
+.arb{
+	color:#f57534;
+	margin: 0px auto 0px;
+	text-align: right;	
+	font:41.34px Exo2Bold;
+	text-transform: uppercase;
+	margin: 0px 22px 61px 92px;
+}
+
+.tabble{
+	width: 256px;
+	height: 574px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 5px;
+	box-shadow: inset 0 0 40px rgba(172,172,172,.75);
+	margin-bottom: 85px;
+	margin-right:33px; 
+}
+.tabble .btn1,.tabble1 .btn1{
+	position: absolute;
+	max-width: 240px;
+    width: 100%;
+    max-height: 50px;
+    height: 100%;
+    border-radius: 3px;
+    padding: 9px 0;
+    text-align: center;
+    font: 23.75px Exo2Bold;
+    text-transform: uppercase;
+	background: #eee000;
+	box-shadow: inset 0 0 40px rgba(172,172,172,.75);
+	text-shadow: 0 0 40px rgba(172,172,172,.75);
+	bottom: 25px;
+	left: 8px;
+	right: 8px;
+	bottom: -46px;
+}
+
+.tabble1{
+	width: 256px;
+	height: 574px;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 5px;
+	box-shadow: inset 0 0 40px rgba(172,172,172,.75);
+	margin-bottom: 85px;
+	margin-right: 33px; 
+}
+
+.profit2{
+	display:none;
+}
+@media (max-width: 824px){
+
+.profit{
+	display:none;
+}
+.profit2{
+	display:block;
+	text-align: center;
+	width:100%;
+	height: auto;
+	background: url(../img/2.jpg) no-repeat center center;
+	background-size: cover; 
+}
+ .po{
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+}
+
+.po1 .po{
+	display: inline-block;
+	width: 31%;	
+	text-align: center;
+}
+
+.po2 .po{
+	display: inline-block;
+	width:49%;	
+	text-align: left;
+
+}
+
+.pp{
+	position: relative;
+	background: rgba(255,255,255,.7);
+	margin: 0 auto 33px;
+	max-width: 958px;
+	width: 100%;
+	min-height: 205px;
+	border-radius: 4px;
+	padding: 27px;
+}
+
+.l{
+	border: none;
+}
+.pth1{
+	text-align: center;
+}
+.po1 .pol,.po2 .pol{
+	width:10%;
+	margin-right: 1%;
+}
+.po1 .por,.po2 .por{
+	width: 32%;
+}
+
+.pol{
+	width:10%;
+	margin-right: 1%;
+}
+.por{
+	width: 89%;
+}
+.ptt1{
+	text-align: center;
+}
+}
+
+@media (max-width: 500px){
+
+.profit{
+	display:none;
+}
+
+.profit2{
+	display:block;
+	text-align: center;
+	width:100%;
+	height: auto;
+	background: url(../img/2.jpg) no-repeat center center;
+	background-size: cover; 
+}
+
+.po1 .po,.po2 .po{
+	display: inline-block;
+	width:100%;	
+	text-align: center;
+
+}
+
+
+.po1 .pol,.po1 .por,.po2 .pol,.po2 .por{
+	width:100%;
+	
+}
+.po1 .por{
+	width: 100%;
+}
+
+
+
+}
+
+.tbhd{
+	color:#181818;
+	margin: 0px auto 0px;
+	text-align: center;	
+	font:17.39px Exo2Bold;
+	text-transform: uppercase;
+	max-height: 64px;
+	height: 100%;
+	background: #eee000;
+	padding: 21px 0;
+	border-radius: 5px 5px 0px 0px;
+	box-shadow: inset 0 0 40px rgba(172,172,172,.75);
+
+}
+
+.tabble ul li{
+	color:#414141;
+	margin: 0px auto 0px;
+	list-style-type: disc;
+	text-align: center;	
+	font:17.39px Exo2Thin;
+	border-bottom: 1px dotted #414141;
+	text-align: left;
+	max-width: 191px;
+	width: 100%;
+	padding: 20px 0px;
+}
+
+.tabble ul li:last-child{
+	color:#414141;
+	margin: 0px auto 0px;
+	list-style-type: disc;
+	text-align: center;	
+	font:17.39px Exo2Thin;
+	border-bottom: none;
+	text-align: left;
+	max-width: 191px;
+	padding: 20px 0px;
+}
+
+.tabble ul,.tabble1 ul{
+	padding: 10px 10px 6px;
+}
+
+
+.tabble1 ul li{
+	color:#414141;
+	margin: 00px 20px;
+	list-style-type: none;
+	
+	font:17.39px Exo2Thin;
+	border-bottom: 1px dotted #414141;
+	text-align: left;
+	max-width: 238px;
+	padding: 16px 0px;
+}
+
+.tabble1 ul li:last-child{
+	color:#414141;
+	margin: 00px 20px;
+	list-style-type: none;
+	
+	font:17.39px Exo2Thin;
+	border-bottom: none;
+	text-align: center;
+	max-width: 238px;
+	padding: 16px 0px;
+}
+
+.upper{
+	text-transform: uppercase;
+}
+
+.bold{
+	font:15.46px Exo2Bold;
+}
+
+.low{
+	font:13.52px;
+}
+
+.tbhd>ul>li>img,.tab1t{
+	display: inline-block;
+	vertical-align: middle;
+}
+.tab1t{
+	margin-left: 10px; 
+}
+
+.affraid{
+	width:100%;
+	height: auto;
+	background: url(../img/3.jpg) no-repeat center center;
+	background-size: cover; 
+	
+}
+
+.affit{
+	display: inline-block;
+	text-align: left;
+	min-width: 312px;
+	margin: 0px auto 25px;
+	vertical-align: middle;
+	color:#ffffff;
+}
+
+.affraid .img,.affraid .name{
+	display: inline-block;
+	text-align: left;
+	margin: 0 auto;
+	vertical-align: middle;
+}
+
+.affts {
+	color:#ffffff;
+	margin: 68px auto 62px;
+	text-align: center;	
+	font:36px Exo2Thin;
+	text-transform: uppercase;
+}
+
+.affraid .b{
+	margin: 0 auto 68px;
+	text-align: center;
+}
+
+.affraid .name{
+	margin-left: 10px;
+}
+
+.oks {
+	display: inline-block;
+	text-align: left;
+	min-width: 312px;
+	margin: 10px auto;
+	vertical-align: top;
+}
+
+.ok .b {
+	text-align: top;
+	margin-top:0px;
+	margin-bottom: 59px; 
+}
+
+.oks .img,.oks .name {
+	width: 285px;
+	text-align: center;
+}
+
+.oks .name {
+	color:#363636;
+	text-align: center;	
+	font:18px Exo2Light;
+	text-transform: uppercase;
+	margin-top: 22px;
+}
+
+.work{
+	width:100%;
+	height: auto;
+	background: url(../img/4.jpg) no-repeat center center;
+	background-size: cover; 
+}
+
+.work>div{
+	text-align: center;
+}
+
+
+.inputs{
+	margin: 45px auto 52px;
+}
+
+.inputs input, .inputs div{
+	display: inline-block;
+	
+}
+.inputs input {
+	display: inline-block;
+	margin: 0px 4px 4px;
+	border: ;
+}
+
+.name1{
+	background: url(../img/human.png) #ffffff no-repeat 4px;
+	padding-left: 25px; 
+}
+
+.mail1{
+	background: url(../img/mail.png) #ffffff no-repeat 4px;
+	padding-left: 30px; 
+
+}
+
+.number1{
+	background: url(../img/phone1.png) #ffffff no-repeat 4px;
+	padding-left: 25px; 
+}
+
+.work .btn1 {
+	max-width: 303px;
+	width: 100%;
+	max-height: 62px;
+	height: 62px;
+	background: #00bfff;
+	border: 1px solid #0088b6;
+	border-radius: 3px;
+	padding: 16px 0;
+	margin: 0 4px 4px;
+	text-align: center;
+	vertical-align: bottom;	
+	font:20px Exo2Medium;
+}
+
+.work .btn1 a{
+	text-decoration: none;
+	color:black;
+}
+
+.work .btn1 a:hover{
+	text-decoration: none;
+	color:black;
+}
+
+.work input{
+	width:279px;
+	max-height: 63px;
+	height: 63px;
+	border:1px solid #7f7f7d;
+	border-radius: 3px;
+}
+
+
+
+.wt1 {
+	color:#ffffff;
+	text-align: center;	
+	font:60px Exo2Thin;
+	text-transform: uppercase;
+	margin-top: 75px;
+}
+
+.wt2 {
+	color:#d9d9d8;
+	text-align: center;	
+	font:18px Exo2Thin;
+	margin-top: 45px;
+
+}
+.wt3 {
+	color:#00bfff;
+	text-align: center;	
+	font:46.21px Exo2Thin;
+	margin-top: 48px;
+}
+
+.wt4 {
+	color:#d9d9d8;
+	text-align: center;	
+	font:18px Exo2Thin;
+	margin-top: 64px;
+
+}
+.wt5 {
+	color:#d9d9d8;
+	text-align: center;	
+	font:14px Exo2Thin;
+	margin-top: 19px;
+}
+
+
+/* Footer
+
+
+	color:#2f87aa;
+	text-align: center;	
+	font:18px Exo2Thin;
+
+	margin-top: 22px;
+
+}
+-----------------------------------------------------------------------------*/
+.footer {
+	width:100%;
+	height: auto;
+}
+
+iframe{
+	float: center;
+	width: 100%;
+	min-height:549px;
+}
+
+
+
+
+ 
+
